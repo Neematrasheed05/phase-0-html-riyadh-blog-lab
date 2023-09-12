@@ -4,7 +4,7 @@ HEADING
 
 SUB HEAD
 
-`Where A Traditional Past Meets A Modern Future.`
+`Where `
 
 IMAGE 1 FILE
 
@@ -36,7 +36,7 @@ IMAGE 2 FILE
 
 IMAGE 2 ALT TEXT
 
-`Riyadh Garden`
+`garden.jpg`
 
 PARAGRAPH 3
 
